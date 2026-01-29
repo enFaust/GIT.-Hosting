@@ -10,4 +10,7 @@ Add new new feature
 Add another change
 
 Add experimental changes 
+<<<<<<< Updated upstream
 Different changes on another branch
+=======
+>>>>>>> Stashed changes
